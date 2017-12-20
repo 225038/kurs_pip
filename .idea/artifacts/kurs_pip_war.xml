@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="kurs_pip:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="kurs_pip-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="kurs_pip:war exploded" />
+    </root>
+  </artifact>
+</component>
